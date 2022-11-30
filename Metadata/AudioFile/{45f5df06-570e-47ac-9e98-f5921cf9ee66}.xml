@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{45f5df06-570e-47ac-9e98-f5921cf9ee66}">
+		<property name="assetPath">
+			<value>UIClickDown_GameReady.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.1758749999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3f138d4d-9e29-49a1-99d0-2d69335e5f8b}</destination>
+		</relationship>
+	</object>
+</objects>

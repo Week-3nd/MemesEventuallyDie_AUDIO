@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c35abeb9-5d25-4f81-8b2b-aa0253f19f99}">
+		<property name="assetPath">
+			<value>NewFan_GameReady.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4970833333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3f138d4d-9e29-49a1-99d0-2d69335e5f8b}</destination>
+		</relationship>
+	</object>
+</objects>
