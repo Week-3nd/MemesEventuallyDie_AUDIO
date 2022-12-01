@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{caa7ce22-f8bd-49f7-9066-7b9ab88a7276}">
+		<property name="assetPath">
+			<value>MDT_Music.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>158.07897916666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3f138d4d-9e29-49a1-99d0-2d69335e5f8b}</destination>
+		</relationship>
+	</object>
+</objects>
