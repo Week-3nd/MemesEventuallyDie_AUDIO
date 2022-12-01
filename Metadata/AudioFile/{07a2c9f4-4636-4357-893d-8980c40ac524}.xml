@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{07a2c9f4-4636-4357-893d-8980c40ac524}">
+		<property name="assetPath">
+			<value>SpreadSound.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>126.75183333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3f138d4d-9e29-49a1-99d0-2d69335e5f8b}</destination>
+		</relationship>
+	</object>
+</objects>
