@@ -66,9 +66,6 @@
 		<property name="maxVoices">
 			<value>1</value>
 		</property>
-		<property name="voiceStealing">
-			<value>3</value>
-		</property>
 	</object>
 	<object class="MarkerTrack" id="{54ef83dc-256f-496f-9dc0-a71676ac5881}" />
 	<object class="Timeline" id="{c720e306-358a-46f5-8d33-521f522a4481}">
@@ -173,7 +170,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-14</value>
+			<value>-20</value>
 		</property>
 	</object>
 </objects>
